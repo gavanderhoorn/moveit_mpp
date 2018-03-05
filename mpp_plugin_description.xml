@@ -1,0 +1,7 @@
+<library path="libmoveit_mpp_planner_manager">
+  <class name="moveit_mpp/MultiPlanner" type="moveit_mpp::MultiPlannerPluginManager" base_class_type="planning_interface::PlannerManager">
+    <description>
+      MoveIt multi-planner plugin.
+    </description>
+  </class>
+</library>
